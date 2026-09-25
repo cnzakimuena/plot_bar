@@ -17,7 +17,7 @@ pip install -r requirements.txt
 Usage:
 
 ```bash
-python bar_plot.py
+python plot_bar.py
 ```
 
 <p align="center">
